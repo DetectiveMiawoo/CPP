@@ -1,4 +1,4 @@
-// created by DetectiveMiawoo
+//Created by DetectiveMiawoo
 #include<iostream>
 using namespace std;
 
